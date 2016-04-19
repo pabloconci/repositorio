@@ -4,6 +4,9 @@
   "description": "",
   "repository": "",
   "author": "",
+  "scripts": {
+      "start": "npm install && bower install && gulp && http-server ./"
+  },
   "dependencies": {
     "gulp-sass": "^2.2.0",
     "del": "^2.2.0",
