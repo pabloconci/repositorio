@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "gulp-sass": "^2.2.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "*",
+    "gulp-htmlmin": "*",
+    "gulp-uglify": "^1.5.3",
+    "copy-dir": "^0.0.8"
+  }
+}

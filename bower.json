@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio",
+  "description": "ejercicio",
+  "version": "0.0.0",
+  "homepage": "www.openshift.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "*",
+    "chico": "*"
+  }
+}
